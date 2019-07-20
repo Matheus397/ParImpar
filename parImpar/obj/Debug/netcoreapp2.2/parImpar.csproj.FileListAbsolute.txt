@@ -1,0 +1,11 @@
+C:\Users\Treinamento 1\Desktop\parImpar\parImpar\parImpar\bin\Debug\netcoreapp2.2\parImpar.deps.json
+C:\Users\Treinamento 1\Desktop\parImpar\parImpar\parImpar\bin\Debug\netcoreapp2.2\parImpar.runtimeconfig.json
+C:\Users\Treinamento 1\Desktop\parImpar\parImpar\parImpar\bin\Debug\netcoreapp2.2\parImpar.runtimeconfig.dev.json
+C:\Users\Treinamento 1\Desktop\parImpar\parImpar\parImpar\bin\Debug\netcoreapp2.2\parImpar.dll
+C:\Users\Treinamento 1\Desktop\parImpar\parImpar\parImpar\bin\Debug\netcoreapp2.2\parImpar.pdb
+C:\Users\Treinamento 1\Desktop\parImpar\parImpar\parImpar\obj\Debug\netcoreapp2.2\parImpar.csprojAssemblyReference.cache
+C:\Users\Treinamento 1\Desktop\parImpar\parImpar\parImpar\obj\Debug\netcoreapp2.2\parImpar.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 1\Desktop\parImpar\parImpar\parImpar\obj\Debug\netcoreapp2.2\parImpar.AssemblyInfoInputs.cache
+C:\Users\Treinamento 1\Desktop\parImpar\parImpar\parImpar\obj\Debug\netcoreapp2.2\parImpar.AssemblyInfo.cs
+C:\Users\Treinamento 1\Desktop\parImpar\parImpar\parImpar\obj\Debug\netcoreapp2.2\parImpar.dll
+C:\Users\Treinamento 1\Desktop\parImpar\parImpar\parImpar\obj\Debug\netcoreapp2.2\parImpar.pdb
